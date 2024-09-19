@@ -1,0 +1,23 @@
+@font-face{
+    font-family: "sf";
+    src:url("../assets/fonts/SF-Pro-Display/SF-Pro-Display-Regular.otf") format("opentype");
+    font-weight: "normal";
+    font-style: "normal";
+}
+
+body{
+    font-family: sf;
+}
+
+.navbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    align-items: center;
+}
+
+.nav-button {
+    background-color: lightgray;
+    text-decoration: none;
+    color: black;
+}
