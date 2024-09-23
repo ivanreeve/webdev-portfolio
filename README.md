@@ -3,7 +3,6 @@
 <div align="center">
 
 ![contributors](https://img.shields.io/github/contributors/ivanreeve/webdev-portfolio)
-
 ![commits](https://img.shields.io/github/commit-activity/w/ivanreeve/webdev-portfolio/main)
 
 </div>
