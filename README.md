@@ -3,7 +3,7 @@
 <div align="center>
 
 [![Contributors]][contributors]
-[![Commit Activity]][commit-activity]
+[![CommitActivity]][commit-activity]
 
 </div>
 
