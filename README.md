@@ -43,7 +43,7 @@ And the **Footer** containing some links to some of the social media platforms I
     git clone https://github.com/ivanreeve/webdev-portfolio.git
     ```
 
-    This will create a local copy of the remote repository on your machine.
+    This will create a local copy of the remote repository in your machine.
 
 3. Use any IDE or text editor you want to open your local copy of the repository. For example, on Visual Studio Code, you need to install an extension called "Go Live" to start a development server. This allows you to view the changes in real time as you edit the files via hot reloading.
 
