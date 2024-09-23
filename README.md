@@ -11,3 +11,5 @@ This portfolio contains
 ```git
 git clone https://github.com/ivanreeve/webdev-portfolio.git
 ```
+
+3. Use any IDE or text editor you want to open your local copy of the repository. For example, on Visual Studio Code, you need to install an extension called "Go Live" to start a development server. This allows you to view the changes as you edit the files in real time via hot reloading.
