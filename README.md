@@ -17,6 +17,8 @@
 
 ## Overview
 
+![page-header](./src/assets/img/header.png)
+
 This project contains the source code of my portfolio for the subject: Web Development
 
 Written in pure html, the webpage consists of the following sections:
