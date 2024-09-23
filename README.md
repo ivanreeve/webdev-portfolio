@@ -3,6 +3,7 @@
 <div align="center">
 
 ![stars](https://img.shields.io/github/stars/ivanreeve/webdev-portfolio)
+![watchers](https://img.shields.io/github/watchers/ivanreeve/webdev-portfolio)
 ![contributors](https://img.shields.io/github/contributors/ivanreeve/webdev-portfolio)
 ![commits](https://img.shields.io/github/commit-activity/w/ivanreeve/webdev-portfolio/main)
 
