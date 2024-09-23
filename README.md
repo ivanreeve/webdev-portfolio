@@ -23,17 +23,12 @@ This project contains the source code of my portfolio for the subject: Web Devel
 
 Written in pure html, the webpage consists of the following sections:
 
-**Header**, which contains my profile picture and a navigation section for the entire document
-
-**About**, where I talk about some brief personal background and relevant experiences with coding
-
-**Projects**, which features my past projects, the technologies used and the projects' Github repositories
-
-**Skills**, where the technologies I use and am currently learning are listed, along with their respective proficiency levels
-
-**Contacts**, which provides a way to contact me directly through the website (not functional)
-
-And the **Footer** containing some links to some of the social media platforms I use
+- **Header**, which contains my profile picture and a navigation section for the entire document
+- **About**, where I talk about some brief personal background and relevant experiences with coding
+- **Projects**, which features my past projects, the technologies used and the projects' Github repositories
+- **Skills**, where the technologies I use and am currently learning are listed, along with their respective proficiency levels
+- **Contacts**, which provides a way to contact me directly through the website (not functional)
+- And the **Footer** containing some links to some of the social media platforms I use
 
 ## Contributing/Cloning Instructions
 
