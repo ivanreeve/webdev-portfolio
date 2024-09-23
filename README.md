@@ -3,11 +3,12 @@
 <div align="center>
 
 [![Contributors]][contributors]
-[![Commit Activity]] [commit-activity]
+[![Commit Activity]][commit-activity]
 
 </div>
 
 [contributors]: https://img.shields.io/github/contributors/ivanreeve/webdev-portfolio
+
 [commit-activity]: https://img.shields.io/github/commit-activity/w/ivanreeve/webdev-portfolio/main
 
 
