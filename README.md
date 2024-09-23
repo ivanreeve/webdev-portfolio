@@ -8,4 +8,6 @@ This portfolio contains
 
 2. Clone the repository using the following command:
 
-```git clone https://github.com/ivanreeve/webdev-portfolio.git ```
+```git
+git clone https://github.com/ivanreeve/webdev-portfolio.git
+```
