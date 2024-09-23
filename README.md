@@ -4,9 +4,9 @@
 
 ## Table of Contents
 
-1. Overview
-2. Contributing/Cloning Instructions
-3. HTML Elements and Tags Used
+1. [Overview](#overview)
+2. [Contributing/Cloning Instructions](#contributingcloning-instructions)
+3. [HTML Elements and Tags Used](#html-elements-and-tags-used)
 
 ## Overview
 
