@@ -1,7 +1,9 @@
 # Portfolio
 
 <div align="center>
-    [![contributors]](https://img.shields.io/github/contributors/ivanreeve/webdev-portfolio)
+
+![contributors](https://img.shields.io/github/contributors/ivanreeve/webdev-portfolio)
+
 </div>
 
 ## Table of Contents
