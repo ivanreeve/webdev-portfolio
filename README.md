@@ -2,15 +2,10 @@
 
 <div align="center>
 
-[![Contributors]][contributors]
-[![CommitActivity]][commit-activity]
+![contributors](https://img.shields.io/github/contributors/ivanreeve/webdev-portfolio)
+![commits](https://img.shields.io/github/commit-activity/w/ivanreeve/webdev-portfolio/main)
 
 </div>
-
-[contributors]: https://img.shields.io/github/contributors/ivanreeve/webdev-portfolio
-
-[commit-activity]: https://img.shields.io/github/commit-activity/w/ivanreeve/webdev-portfolio/main
-
 
 ## Table of Contents
 
