@@ -1,5 +1,7 @@
 # Portfolio
 
+[![Badge License]][License]   
+[![Badge Likes]][#]
 
 
 ## Table of Contents
@@ -10,7 +12,7 @@
 
 ## Overview
 
-This project contains a portfolio webpage. 
+This project features ma
 
 ## Contributing/Cloning Instructions
 
