@@ -27,7 +27,7 @@ About, where I talk about some brief personal background and relevant experience
 
 Projects, which features my past projects, the technologies used and the projects' Github repositories
 
-Skills, where the technologies I use and am currently learning are listed, along with their respective proficiency level
+Skills, where the technologies I use and am currently learning are listed, along with their respective proficiency levels
 
 Contacts, which provides a way to contact me directly through the website (not functional)
 
