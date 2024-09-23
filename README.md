@@ -25,7 +25,7 @@ Header, which contains my profile picture and a navigation section for the entir
 
 About, where I talk about some brief personal background and relevant experiences with coding
 
-Projects, which features my past projects, the technologies used and the projects' Github repository
+Projects, which features my past projects, the technologies used and the projects' Github repositories
 
 Skills, where the technologies I use and am currently learning are listed, along with their respective proficiency level
 d
