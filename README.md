@@ -1,8 +1,8 @@
 # Portfolio
 
-[![Badge License]][License]   
-[![Badge Likes]][#]
-
+<div align="center>
+    [![contributors]](https://img.shields.io/github/contributors/ivanreeve/webdev-portfolio)
+</div>
 
 ## Table of Contents
 
