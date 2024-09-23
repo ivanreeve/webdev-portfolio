@@ -2,9 +2,12 @@
 
 <div align="center>
 
-![contributors](https://img.shields.io/github/contributors/ivanreeve/webdev-portfolio)
+[![Contributors]][contributors]
 
 </div>
+
+[contributors]: https://img.shields.io/github/contributors/ivanreeve/webdev-portfolio
+
 
 ## Table of Contents
 
